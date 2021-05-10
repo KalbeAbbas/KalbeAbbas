@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @KalbeAbbas
+- 👀 I’m interested in advanced Embedded Electronics topics such as RTOS, Embedded Linux and Computer Vision
+- 📫 How to reach me @Email: kalbeabbas142@gmail.com
